@@ -59,6 +59,15 @@ font-weight: normal;
     padding: 15px 30px;
 }
 
+.btn-branding {
+    background: var(--button-color);
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 15px 30px;
+}
+
 .project-desciption {
     padding: 120px 60px;
 }
